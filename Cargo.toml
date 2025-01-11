@@ -9,8 +9,8 @@ name = "println"
 path = "src/println.rs"
 
 [[bin]]
-name = "flowcontrol"          
-path = "src/flowcontrol.rs"
+name = "functions"          
+path = "src/functions.rs"
 
 [dependencies]
 
