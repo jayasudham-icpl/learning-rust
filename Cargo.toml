@@ -8,6 +8,10 @@ edition = "2021"
 name = "println"          
 path = "src/println.rs"
 
+[[bin]]
+name = "flowcontrol"          
+path = "src/flowcontrol.rs"
+
 [dependencies]
 
 
