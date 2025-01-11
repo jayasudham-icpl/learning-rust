@@ -1,9 +1,9 @@
 fn if_else_statement() {
     let number =7;
     if number < 5 {
-        println!("The number is less than 5");
+        println!("The given number is less than 5");
     } else {
-        println!("The number is 5 or greater");
+        println!("The given number is 5 or greater");
     }
 }
 
