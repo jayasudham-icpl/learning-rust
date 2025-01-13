@@ -20,6 +20,12 @@ path = "src/flowcontrol.rs"
 name = "mutability"          
 path = "src/mutability.rs"
 
+
+[[bin]]
+name = "stack_heap"          
+path = "src/stack-heap.rs"
+
+
 [dependencies]
 
 
