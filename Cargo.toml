@@ -12,6 +12,14 @@ path = "src/println.rs"
 name = "functions"          
 path = "src/functions.rs"
 
+[[bin]]
+name = "flowcontrol"          
+path = "src/flowcontrol.rs"
+
+[[bin]]
+name = "mutability"          
+path = "src/mutability.rs"
+
 [dependencies]
 
 
