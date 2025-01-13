@@ -25,6 +25,10 @@ path = "src/mutability.rs"
 name = "stack_heap"          
 path = "src/stack-heap.rs"
 
+[[bin]]
+name = "ownership"          
+path = "src/ownership.rs"
+
 
 [dependencies]
 
