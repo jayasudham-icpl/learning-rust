@@ -14,4 +14,4 @@ fn main() {
 
 fn takes_ownership(some_string: &String) {
     println!("{}", some_string);  // some_string is borrowed and not moved
-}
+} 
