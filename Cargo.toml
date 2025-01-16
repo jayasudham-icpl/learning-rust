@@ -35,6 +35,10 @@ name = "reference"
 path = "src/reference.rs"
 
 
+[[bin]]
+name = "borrowing"          
+path = "src/borrowing.rs"
+
 [dependencies]
 
 
