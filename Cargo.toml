@@ -30,6 +30,11 @@ name = "ownership"
 path = "src/ownership.rs"
 
 
+[[bin]]
+name = "reference"          
+path = "src/reference.rs"
+
+
 [dependencies]
 
 
